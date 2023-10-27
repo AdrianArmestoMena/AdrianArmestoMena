@@ -13,7 +13,7 @@
 
 ## About Me :
 
--  I'm a full stack developer with more than 4 years learning about coding. :computer:
+-  I'm a full stack developer with more than 4 years coding experience. :computer:
 -  Never stop learing :mag_right:
 -  I love what I do :black_heart:
 -  I'm always trying to learn about people I have around me
